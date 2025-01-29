@@ -4,7 +4,7 @@
 //let parrafo = document.querySelector('p');
 //parrafo.innerHTML = 'Selecciona un número entre el 1 y el 10';
 //acá declaro la función y coloco la acción que hace la función
-/*
+
 let numeroSecreto = 0;
 let intentos = 0;
 let listaNumerosSorteados = []; //declaración de arreglo o lista
@@ -93,7 +93,7 @@ function reiniciarJuego(){
 
 condicionesIniciales();
 
-*/
+
 /*
 let mensaje;
 function holaM(mensaje) {
